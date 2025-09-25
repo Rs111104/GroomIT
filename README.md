@@ -51,19 +51,7 @@ git clone https://github.com/Rs111104/groomit360.git
 cd groomit360
 
 
-Project Structure
-groomit360/
-│-- app.py
-│-- models.py
-│-- views/
-│-- webhooks/
-│-- templates/
-│-- static/
-│-- scripts/
-│-- requirements.txt
-│-- README.md
-
-Why This Project
+**Why This Project**
 
 Built specifically for salons/barbershops: digital bookings, reminders, rebookings
 
@@ -73,10 +61,4 @@ Demonstrates real-world integrations: WhatsApp messaging + UPI payments
 
 Shows multi-language, customer-friendly conversation design recruiters can review quickly
 
-License
-
-MIT — see LICENSE.
-
-Contact
-
-Add your email or LinkedIn here for demo requests or collaboration.
+License-MIT
